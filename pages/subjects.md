@@ -1,5 +1,5 @@
 ---
-title: Subjects
+title: Family Branches
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
