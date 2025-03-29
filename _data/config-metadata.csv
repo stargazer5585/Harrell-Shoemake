@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date,
+birthdeath, Date of Birth/Death,
 description,Description,
 subject,Family Branch,true
 location,Location
