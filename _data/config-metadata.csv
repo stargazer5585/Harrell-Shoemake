@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Photo/Doc,
-birth-death, Subject's date of birth/death
+birth-death, Subject's date of birth/death,
 description,Description,
 subject,Family Branch,true
 location,Location
