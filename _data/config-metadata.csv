@@ -4,6 +4,8 @@ creator,Creator,
 date,Date of Photo,
 birthdeath, Date of Birth/Death,
 description,Description,
+parents,Parents
+children,Children
 subject,Family Branch,true
 location,Location
 latitude,Latitude
